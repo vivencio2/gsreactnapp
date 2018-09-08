@@ -3,11 +3,12 @@ import { StyleSheet, Text, View } from 'react-native';
 
 export default class App extends React.Component {
   render() {
+    debugger;
     return (
       <View style={styles.container}>
-        <Text>GSREACTAPP</Text>   
-        <Text>Meriel Anes</Text>
-        <Text>Jayr Anes</Text>   
+        <Text>GSREACTAPP</Text> 
+        <Text>Jayr Anes</Text>
+        <Text>Hello World4!</Text> 
       </View>
     );
   }
